@@ -1,4 +1,4 @@
-# Pattern Matching Algorithm in PHP
+# Pattern Matching Algorithm in PHP (task 02)
 
 This PHP program demonstrates a pattern matching algorithm to find all occurrences of a pattern within a given text.
 
